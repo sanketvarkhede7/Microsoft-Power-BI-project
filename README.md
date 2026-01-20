@@ -14,3 +14,6 @@ Microsoft Excel / CSV (Data Source)
 Data Source : Microsoft AdventureWorks (Available on Microsoft website)
 
 Screenshots / Demos :
+https://github.com/sanketvarkhede7/Microsoft-Power-BI-project/blob/main/Snapshot-%20Category%20Details.png
+https://github.com/sanketvarkhede7/Microsoft-Power-BI-project/blob/main/Snapshot-%20Product%20Details.png
+https://github.com/sanketvarkhede7/Microsoft-Power-BI-project/blob/main/Snapshot-%20Customers%20Details.png
