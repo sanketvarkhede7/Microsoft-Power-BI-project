@@ -5,11 +5,13 @@ Microsoft AdventureWorks (Power BI)
   4. A Power BI project with Adventure Works as the data source would involve tasks related to data connection, modeling, transformation, visualization, sharing, and maintenance to provide meaningful insights and reports to the stakeholders.
   5. Delivered business insights through visual analytics and reports.
 
-🧰 Tools & Technologies :
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query (ETL)
-Microsoft Excel / CSV (Data Source)
+The dashboard was built using the following tools and technologies:
+
+• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+• 📁 File Format – .pbix for development and .png for dashboard previews.
 
 Data Source : Microsoft AdventureWorks (Available on Microsoft website)
 
